@@ -1,0 +1,2 @@
+# Catizen-MANTLE
+FULL AUTO
