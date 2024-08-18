@@ -2,8 +2,10 @@
 FULL AUTO (THIS BOT IS FOR SALE) Get this powerful automation tool at a Cheap price.
 
 ## Contact Me
-Telegram : [HERE](https://t.me/Squire00)
-Script Buy : [Link](https://sociabuzz.com/surrealflux/b/catizen-mantle-ton)
+Telegram: [HERE](https://t.me/Squire00)
+
+**Link Script**
+- **Script:** [Link](https://sociabuzz.com/surrealflux/b/catizen-mantle-ton)
 - **Free Version Coming Soon:** A **limited-feature** version will be released soon, giving you a taste of what this tool can do. Stay tuned!
 - **14-Day Catizen Care Service:** Enjoy our **affordable** 14-day catizen boarding service for just **$1**.
 
