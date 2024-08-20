@@ -24,5 +24,3 @@ Telegram: [HERE](https://t.me/Squire00)
 ---
 
 Feel free to make any further adjustments!
-
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/zuiredrop)
