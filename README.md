@@ -8,6 +8,7 @@ Telegram: [HERE](https://t.me/Squire00)
 - **Script:** [Link](https://sociabuzz.com/surrealflux/b/catizen-mantle-ton)
 - **Free Version Coming Soon:** A **limited-feature** version will be released soon, giving you a taste of what this tool can do. Stay tuned!
 - **14-Day Catizen Care Service:** Enjoy our **affordable** 14-day catizen boarding service for just **$1**.
+- **Lifetime Access:** Purchase now and get lifetime access to all features and future updates!
 
 ### Feature
 - **Auto Merge:** Automatically merge your cats for enhanced gameplay.
@@ -20,4 +21,8 @@ Telegram: [HERE](https://t.me/Squire00)
 - **Platform Support (RDP/VPS/Termux):** Compatible with various OS platforms including RDP, VPS, and Termux.
 - **Optimized Resource Usage:** Designed for minimal memory and CPU consumption.
 
-Feel free to adjust as needed!
+---
+
+Feel free to make any further adjustments!
+
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/zuiredrop)
