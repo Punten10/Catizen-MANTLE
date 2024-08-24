@@ -23,4 +23,4 @@ Telegram: [HERE](https://t.me/Squire00)
 
 ---
 
-Feel free to make any further adjustments!!
+Feel free to make any further adjustments!!!
